@@ -21,4 +21,14 @@ section {
 
 .half-width img {
     width: 100%;
+    height: 100%;
+}
+
+.link-button {
+    background-image: linear-gradient(rgb(4, 187, 248), white);
+    ;
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5em;
 }
