@@ -25,10 +25,31 @@ section {
 }
 
 .link-button {
-    background-image: linear-gradient(rgb(4, 187, 248), white);
+    background-image: linear-gradient(rgb(4, 187, 248)30%, white);
     ;
     text-decoration: none;
     color: black;
     padding: 10px 20px;
     border-radius: 5em;
+}
+
+.mid {
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.mid img {
+    width: 70.5%;
+    height: 87.5%;
+
+}
+
+#about-me {
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+#button-2 {
+    margin-top: 10%;
 }
