@@ -127,3 +127,7 @@ footer {
     color: gray;
 
 }
+
+footer p {
+    font-size: small;
+}
