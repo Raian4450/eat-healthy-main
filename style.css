@@ -41,7 +41,7 @@ section {
 
 .mid img {
     width: 70.5%;
-    height: 87.5%;
+    height: 92.5%;
 
 }
 
@@ -52,4 +52,78 @@ section {
 
 #button-2 {
     margin-top: 10%;
+}
+
+.my_recipie {
+    text-align: center;
+    color: gray;
+}
+
+.mid_recipie {
+    display: flex;
+
+}
+
+.native {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 5%;
+    padding: 2%;
+    border-radius: 2em;
+
+
+
+
+
+    box-shadow: 10px 10px 40px grey;
+
+}
+
+.native img {
+    width: 100%;
+    border-radius: 2em;
+
+}
+
+.followers {
+    display: flex;
+    box-shadow: 10px 10px 40px grey;
+    margin-top: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: fit-content;
+
+
+}
+
+.description {
+    padding-left: 5%;
+    margin-left: 15%;
+    margin-top: 10%;
+    padding-bottom: 10%;
+
+}
+
+footer {
+    background-color: #0B0D17;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.description h1 {
+    font-size: xx-large;
+}
+
+.my_recipie h2 {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.mid_recipie p {
+    color: gray;
+
 }
